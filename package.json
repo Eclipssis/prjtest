@@ -1,0 +1,20 @@
+{
+  "name": "prjtest",
+  "version": "1.0.0",
+  "description": "My transcendent Nuxt.js project",
+  "author": "Anton Sitnikov",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.10.2",
+    "axios": "^0.18.1",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.11"
+  },
+  "devDependencies": {}
+}
